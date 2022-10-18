@@ -12,3 +12,17 @@
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
+
+
+<!--  
+
+MVC의 역할
+
+Client -> Controller ->  -> View
+		  Model
+
+Controller는 Client로부터 요청을 받는다
+Model은 최종페이지에 쓸 데이터를 View에게 전달한다
+View는 최종 페이지를 만들어준다 
+
+-->
