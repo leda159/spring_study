@@ -25,13 +25,13 @@ public class greetingsController {
 	@GetMapping("/hi-")
 	public String hi(Model model) {
 		model.addAttribute("userName","고객");
-		return"greetings";  
+		return"board/greetings";  
 	}
 	
 	@GetMapping("/bye-")
 	public String bye(Model model){
 		model.addAttribute("userName","고객");
-		return"goodbye";
+		return"board/goodbye";
 	}
 }
 
