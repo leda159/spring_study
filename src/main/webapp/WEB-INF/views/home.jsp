@@ -53,6 +53,7 @@
 	<div>
 		http://localhost:8080/hi-<br>
 		http://localhost:8080/bye-
+		http://localhost:8080/formTest
 	</div>
 	<hr>	
 </body>
@@ -71,6 +72,7 @@ Model은 최종페이지에 쓸 데이터를 View에게 전달한다
 View는 최종 페이지를 만들어준다 
 
 -->
+
 
 
 <!-- form 데이터를 받는 객체 -> DTO -->
