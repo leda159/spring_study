@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.bigdata</groupId>
 	<artifactId>controller</artifactId>
-	<name>sutdy1</name>
+	<name>sutdy_1</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
